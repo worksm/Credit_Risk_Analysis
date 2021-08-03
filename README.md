@@ -7,7 +7,7 @@ The purpose of this analysis is well defined (4 pt)
 Results:
 
 * Balanced Random Forest Classifier
-[BRFC.PNG]!
+[BRFC.PNG]!https://github.com/worksm/Credit_Risk_Analysis/blob/c4d10834c7c38c8ebbd8c70c776583caeb3f06fa/BRFC.png
 
 * Easy Ensemble AdaBoost Classifer
    * Balanced Accuracy Score
