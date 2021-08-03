@@ -3,11 +3,10 @@
 ## Overview: 
 Six supervised machine learning models were built and evaluated to determine which, if any model, could be implemented to better determine an applicant's credit risk. 
 
-The purpose of this analysis is well defined (4 pt)
-Results:
+## Results:
 
 * Balanced Random Forest Classifier
-[BRFC.PNG]!https://github.com/worksm/Credit_Risk_Analysis/blob/c4d10834c7c38c8ebbd8c70c776583caeb3f06fa/BRFC.png
+![BRFC.PNG](https://github.com/worksm/Credit_Risk_Analysis/blob/c4d10834c7c38c8ebbd8c70c776583caeb3f06fa/BRFC.png)
 
 * Easy Ensemble AdaBoost Classifer
    * Balanced Accuracy Score
