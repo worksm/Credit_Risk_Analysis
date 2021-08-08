@@ -10,9 +10,8 @@ Six supervised machine learning models were built and evaluated to determine whi
 ![BRFC.PNG](https://github.com/worksm/Credit_Risk_Analysis/blob/c4d10834c7c38c8ebbd8c70c776583caeb3f06fa/BRFC.png)
 
 * Easy Ensemble AdaBoost Classifer
-   * Balanced Accuracy Score
-   * Precision 
-   * Recall
+
+! [EEAB.PNG](
 
 
 There is a bulleted list that describes the balanced accuracy score and the precision and recall scores of all six machine learning models (15 pt)
