@@ -11,8 +11,11 @@ Six supervised machine learning models were built and evaluated to determine whi
 
 * Easy Ensemble AdaBoost Classifer
 
-! [EEAB.PNG](
+! [EEAB.PNG](https://github.com/worksm/Credit_Risk_Analysis/blob/3e9078c6be070819a3ac162942587c56f565dfb8/EEABC.png)
 
+* Naive Random Oversampling
+
+![]
 
 There is a bulleted list that describes the balanced accuracy score and the precision and recall scores of all six machine learning models (15 pt)
 Summary:
