@@ -11,7 +11,7 @@ Six supervised machine learning models were built and evaluated to determine whi
 
 * Easy Ensemble AdaBoost Classifer
 
-![EEAB.PNG](https://github.com/worksm/Credit_Risk_Analysis/blob/3e9078c6be070819a3ac162942587c56f565dfb8/EEABC.png)
+![EEAB1.PNG](https://github.com/worksm/Credit_Risk_Analysis/blob/0dcc589c0ea58093a401a67e58bc9394a7f9ec0e/EEAB1.png)
 
 * Naive Random Oversampling
 
