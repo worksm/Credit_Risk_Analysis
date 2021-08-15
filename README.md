@@ -15,7 +15,15 @@ Six supervised machine learning models were built and evaluated to determine whi
 
 * Naive Random Oversampling
 
-![]
+![Naive_Oversampling](https://github.com/worksm/Credit_Risk_Analysis/blob/0bcde69fd16efff1b82314cbb8b2bde6bce930e1/Naive_Oversampling.png)
+
+* Smote Oversampling
+
+![Smote_Oversampling](https://github.com/worksm/Credit_Risk_Analysis/blob/0bcde69fd16efff1b82314cbb8b2bde6bce930e1/Smote_Oversampling.png)
+
+* Undersampling
+
+![Combo](https://github.com/worksm/Credit_Risk_Analysis/blob/0bcde69fd16efff1b82314cbb8b2bde6bce930e1/Combo.png)
 
 There is a bulleted list that describes the balanced accuracy score and the precision and recall scores of all six machine learning models (15 pt)
 Summary:
