@@ -5,28 +5,33 @@ Six supervised machine learning models were built and evaluated to determine whi
 
 ## Results:
 
-* Balanced Random Forest Classifier
+* **Balanced Random Forest Classifier**
 
 ![BRFC.PNG](https://github.com/worksm/Credit_Risk_Analysis/blob/c4d10834c7c38c8ebbd8c70c776583caeb3f06fa/BRFC.png)
 
-* Easy Ensemble AdaBoost Classifer
+* **Easy Ensemble AdaBoost Classifer**
 
 ![EEAB1.PNG](https://github.com/worksm/Credit_Risk_Analysis/blob/0dcc589c0ea58093a401a67e58bc9394a7f9ec0e/EEAB1.png)
 
-* Naive Random Oversampling
+** Both ensemble models have the highest accuracy score at 76%. 
+** 
+
+* **Naive Random Oversampling
 
 ![Naive_Oversampling](https://github.com/worksm/Credit_Risk_Analysis/blob/0bcde69fd16efff1b82314cbb8b2bde6bce930e1/Naive_Oversampling.png)
 
-* Smote Oversampling
+* **Smote Oversampling**
 
 ![Smote_Oversampling](https://github.com/worksm/Credit_Risk_Analysis/blob/0bcde69fd16efff1b82314cbb8b2bde6bce930e1/Smote_Oversampling.png)
 
-* Undersampling
+* **Undersampling**
+
+![Undersampling](https://github.com/worksm/Credit_Risk_Analysis/blob/6051b229c8827ed59cffd9b3704c861d84933b94/Undersampling.png)
+
+* **Combination**
 
 ![Combo](https://github.com/worksm/Credit_Risk_Analysis/blob/0bcde69fd16efff1b82314cbb8b2bde6bce930e1/Combo.png)
 
-There is a bulleted list that describes the balanced accuracy score and the precision and recall scores of all six machine learning models (15 pt)
-Summary:
+## Summary: 
 
-There is a summary of the results (2 pt)
-There is a recommendation on which model to use, or there is no recommendation with a justification (3 pt)
+In conclusion, I would be unable to recommend any of the machine learning models in their current state. 
